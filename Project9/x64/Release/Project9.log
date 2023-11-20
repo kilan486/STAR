@@ -1,0 +1,6 @@
+﻿  1.cpp
+  2.cpp
+  3.cpp
+2.obj : error LNK2005: main 已经在 1.obj 中定义
+3.obj : error LNK2005: main 已经在 1.obj 中定义
+C:\Users\Administrator\source\repos\Project9\x64\Release\Project9.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
